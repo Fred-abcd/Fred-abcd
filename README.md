@@ -29,6 +29,10 @@
 
 ###
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/958764337953116210)](https://discord.com/users/958764337953116210)
+
+###
+
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
