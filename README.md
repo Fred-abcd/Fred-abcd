@@ -21,14 +21,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jromyp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jromyp&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
   [![Discord Presence](https://lanyard.cnrad.dev/api/958764337953116210)](https://discord.com/users/958764337953116210)
 
 
