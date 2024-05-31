@@ -12,14 +12,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fred-abcd&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Fred-abcd&icon=8&color=12)](https://visitcount.itsvg.in)
+
+---
+[![wakatime](https://wakatime.com/badge/user/018c9742-04ae-4af3-8234-447d5408f2a2.svg)](https://wakatime.com/@018c9742-04ae-4af3-8234-447d5408f2a2)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thedevfred) 
